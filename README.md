@@ -1,5 +1,5 @@
 # Dreams Car
-### Plataforma web para compra e venda carros, novos e usados.
+### Plataforma web para compra e venda de carros, novos e usados.
 
 --------
 
